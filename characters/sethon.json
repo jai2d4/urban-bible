@@ -1,0 +1,26 @@
+{
+  "name": "Sethon",
+  "biblical_reference": "Seth",
+  "version": 5,
+  "skin_tone": "dark, deep tone almost black",
+  "hair": "low cut fade",
+  "beard": "big, full, thick",
+  "face_tattoo": true,
+  "body_ink": "full body tattoos - arms, neck, hands",
+  "build": "broad, strong, big frame - fills a doorway",
+  "age": "late 20s",
+  "anchors": ["size (big frame, broad shoulders)", "big beard"],
+  "wardrobe_baseline": "black t-shirt, distressed jeans, work boots, blue rag, black watch, work gloves in back pocket, restless stance",
+  "expressions": ["observant", "restless", "protective", "tender", "angry", "resolved", "quiet strength"],
+  "expression_story_mapping": {
+    "observant": "stoop and block scenes, clocking everything",
+    "restless": "before decisions, pacing",
+    "protective": "shielding family, Cain and Abel tension",
+    "tender": "fatherhood, passing the line to Enzo",
+    "angry": "rage before the shovel moment",
+    "resolved": "after consequences hit",
+    "quiet strength": "standing presence, unspoken authority"
+  },
+  "gang_color": "blue",
+  "notes": "Size and beard are the two unchanging anchors. Face tattoo makes him unmistakable. Protective read should be shielding, not strained."
+}

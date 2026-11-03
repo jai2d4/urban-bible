@@ -1,0 +1,22 @@
+{
+  "name": "Jarod",
+  "biblical_reference": "Jared",
+  "version": 3,
+  "skin_tone": "chocolate black",
+  "hair": "braids",
+  "build": "athletic",
+  "age": "early 60s",
+  "anchors": ["family ring (never takes off)"],
+  "wardrobe_baseline": "white V-neck t-shirt, jeans with holes, scruffy shoes, blue rag, sits on the same stoop every day",
+  "role": "longtime block elder - remembers every generation, bridge between Enzo and Nohan",
+  "expressions": ["observant", "weary", "knowing", "grieving", "patient"],
+  "expression_story_mapping": {
+    "observant": "stoop scenes, clocking the block from his seat",
+    "weary": "watching younger generations repeat mistakes",
+    "knowing": "Nohan gets the ark order - he's seen enough to believe",
+    "grieving": "when Enzo vanishes with no body",
+    "patient": "descent means outlasting almost everybody"
+  },
+  "gang_color": "blue",
+  "notes": "Descent theme - he's seen it all come and go. The ring is the line passed down."
+}

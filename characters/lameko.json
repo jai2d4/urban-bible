@@ -1,0 +1,23 @@
+{
+  "name": "Lameko",
+  "biblical_reference": "Lamech",
+  "version": 3,
+  "skin_tone": "deep brown",
+  "hair": "short, textured afro",
+  "beard": "trimmed, full",
+  "eyes": "dark brown",
+  "build": "medium, athletic",
+  "age": 34,
+  "height": "5'10\" (178 cm)",
+  "anchors": ["no visible jewelry (gold chain removed)"],
+  "wardrobe_baseline": "burgundy polo, medium indigo jeans, blue rag in right front pocket",
+  "expressions_vibe": "reserved, observant, grounded, real",
+  "expression_story_mapping": {
+    "reserved": "default state, holding back",
+    "observant": "taking in the block without comment",
+    "grounded": "steady through chaos",
+    "real": "authentic, no performance"
+  },
+  "gang_color": "blue",
+  "notes": "Burgundy polo chosen so he doesn't read as Nephilim (black). Color palette: maroon, blue, gray, brown. Former gold chain removed."
+}

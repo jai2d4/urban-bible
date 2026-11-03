@@ -1,0 +1,24 @@
+{
+  "name": "Nazho",
+  "biblical_reference": "Noah",
+  "version": 2,
+  "skin_tone": "brown",
+  "hair": "clean-shaven head",
+  "beard": "salt-and-pepper",
+  "build": "lean, wiry carpenter build",
+  "age": "early 50s",
+  "background": "Urban, born and raised. Skilled tradesman. 25+ years on job sites. Independent. No nonsense. Reliable. Old school values.",
+  "anchors": ["tool belt", "carpenter's hands"],
+  "wardrobe_baseline": "blue bandana headband, sleeveless gray work shirt, blue flannel, blue rag on tool belt, khaki canvas work pants, tan work boots",
+  "expressions": ["determined", "mocked-but-steady", "obedient", "fearful", "relieved", "grateful"],
+  "expression_story_mapping": {
+    "determined": "building the ark while the block watches and laughs",
+    "mocked-but-steady": "kids throwing bottles, old heads shaking heads, he keeps swinging the hammer",
+    "obedient": "the Voice speaks, he builds - no questions",
+    "fearful": "seven days of silence inside, animals restless, city going under",
+    "relieved": "typhoon passes, ark holds, dry land appears",
+    "grateful": "altar and sacrifice after stepping out"
+  },
+  "gang_color": "blue",
+  "notes": "Highly skilled craftsman with precision and pride. Works clean, stays organized. Quiet, speaks when it matters. Protective of his people but not closed off. Trades. Integrity. Legacy. Khaki canvas pants break up the all-blue denim wall."
+}

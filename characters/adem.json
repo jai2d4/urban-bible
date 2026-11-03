@@ -1,0 +1,24 @@
+{
+  "name": "Adem",
+  "biblical_reference": "Adam",
+  "version": 7,
+  "skin_tone": "dark",
+  "hair": "dreads, shoulder-length, neat",
+  "build": "lean",
+  "age": "late 20s",
+  "height": "5'10\"",
+  "anchors": ["cross tattoo on left forearm (faded)", "small scar under left eye"],
+  "wardrobe_baseline": "black t-shirt, cargo pants, black sneakers, blue rag",
+  "looks": ["garden lot", "after-the-fall"],
+  "expressions": ["calm and grounded", "curious", "wonderstruck", "shame and confusion", "grief", "weathered acceptance"],
+  "expression_story_mapping": {
+    "calm and grounded": "garden scenes, tending the lot",
+    "curious": "animals approaching, first encounters",
+    "wonderstruck": "first time seeing the woman",
+    "shame and confusion": "post-fall, hoodie moment in laundromat",
+    "grief": "being sent out of the garden",
+    "weathered acceptance": "tilling ground outside"
+  },
+  "gang_color": "blue",
+  "notes": "Urban Black cast baseline. Cross tattoo from before the garden. Scar under left eye."
+}

@@ -1,0 +1,16 @@
+{
+  "series": "Urban Bible - Genesis Season 1",
+  "gang_lens": "Red vs blue as the spine. Cain's crew rolls red, Abel's side is blue. Nephilim wear black - a merger of red, blue, and Latino sets (green) that used to fight each other. Latino sets assigned green.",
+  "standing_rules": [
+    "Every character gets one anchor detail that never changes across episodes",
+    "Expressions must map to specific story beats for each character",
+    "Urban Black cast baseline - braids, dreads, afros, fades, half-dreads",
+    "All sheeted characters trace through Seth's line and wear blue rags by default",
+    "Nephilim (black) are the only ones not on the main line",
+    "Physical fallout from disobedience must be visible in the body",
+    "Bible reference shown in small text or closing card - translation, not rewrite"
+  ],
+  "characters": ["adem", "sethon", "enzo", "jarod", "lameko", "nazho"],
+  "pending": ["methu"],
+  "last_updated": "2026-11-03"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Enzo",
+  "biblical_reference": "Enoch",
+  "version": 3,
+  "skin_tone": "bronze",
+  "hair": "long gray dreads",
+  "beard": "long gray beard down to stomach",
+  "build": "skinny, slim",
+  "age": "late 50s",
+  "anchors": ["long gray beard to stomach"],
+  "wardrobe_baseline": "simple white t-shirt, khaki jeans, house shoes, cane, blue rag",
+  "looks": ["stoop presence", "vanishing moment"],
+  "expressions": ["quiet", "observant", "unbothered", "spiritual", "peaceful", "gone"],
+  "expression_story_mapping": {
+    "quiet": "everyday stoop scenes, watching the block",
+    "observant": "seeing everything, slow to speak",
+    "unbothered": "nothing rattles him",
+    "spiritual": "moments close to the Voice",
+    "peaceful": "the walk with God before vanishing",
+    "gone": "no body, no grave - branch ends mid-air"
+  },
+  "gang_color": "blue",
+  "notes": "Old soul. Moves slow, sees everything, speaks when spirit moves him. The one who walked so close he just vanished."
+}

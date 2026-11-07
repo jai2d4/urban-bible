@@ -69,14 +69,13 @@ The ark's the only thing on that block that doesn't move. Everything else is deb
 
 Toll: you survive, but you hear the world you knew go under, and you can't do nothing about it.
 
-### Episode 8 — "The Olive Leaf" (Genesis 8) — NEXT UP
+### Episode 8 — "The Olive Leaf" (Genesis 8) — COMPLETE
 The water going down. The ark settles on the mountains. Nohan opens the window, sends out a raven that circles and never comes back. Then a dove — first trip, nothing. Second trip, an olive leaf. Third trip, it doesn't come back. Dry ground. Nohan steps out, builds an altar, sacrifices. The Voice: never again will I curse the ground. Seedtime and harvest, cold and heat, summer and winter, day and night won't stop. Then the rainbow — the first promise with a physical marker you can point to.
 
 Visually the quietest, heaviest episode: the ark on a peak, water receding in sheets, rainbow breaking over everything that just drowned.
 
-## Upcoming Genesis Episodes (8–11)
+## Upcoming Genesis Episodes (9–11)
 
-- **Episode 8 — "The Olive Leaf"** (Genesis 8): water receding, dove with olive leaf, altar, rainbow covenant.
 - **Episode 9 — "The Tent"** (Genesis 9): the reset. New rules — be fruitful, animals are food but no blood, whoever sheds man's blood by man shall his blood be shed (first law, first justice). Nohan plants a vineyard, drinks, passes out naked. Ham sees and tells instead of covering. Shem and Japheth walk in backwards with a cloak. Nohan curses Canaan. First crack in the reset — same heart that filled the earth with violence is still in the tent. Vineyard = backyard garden gone wild, grapes on a fence that used to be a clothesline.
 - **Episode 10 — "The Map"** (Genesis 10): table of nations. Nohan's three sons split the map. Japheth north and west, Ham south and east (Egypt, Cush, Put, Canaan), Shem closest to the source — from Shem comes Eber, from Eber the Hebrews. A census of every nation that will matter later, written like a family tree with continents for branches.
 - **Episode 11 — "The Half-Built Tower"** (Genesis 11): Babel. One people, one language, moving east to a plain in Shinar. Brick, not stone — no rock in the land. Build a city and a tower to the heavens, make a name, never scatter. The Voice comes down to see it — leaning over a table. If they can do this with one language, nothing's impossible. So he confuses their speech. One minute same language, next minute nobody understands anybody. Building stops mid-brick. Place named Babel — confusion. Origin of every divided city.
@@ -135,8 +134,7 @@ Tell any assistant: "Go to github.com/jai2d4/urban-bible, pull up the README, an
 
 - [x] Concept locked
 - [x] Name map locked (Genesis 5)
-- [x] Episodes 1–7 written (through the typhoon / Genesis 7)
-- [ ] Episode 8 (Genesis 8) — next up
+- [x] Episodes 1–8 written (through the flood / Genesis 8)
 - [ ] Episodes 9–11 (Genesis 9–11)
 - [ ] Rest of Genesis (12–50)
 - [ ] Remaining ~19 Bible episodes

@@ -1,0 +1,25 @@
+{
+  "name": "Nohan",
+  "biblical_reference": "Noah",
+  "version": 1,
+  "skin_tone": "deep brown",
+  "hair": "graying, textured hair, dusted with sawdust",
+  "build": "strong carpenter's build, back bent from decades of labor",
+  "age": "older adult",
+  "anchors": ["weathered, callused carpenter's hands"],
+  "wardrobe_baseline": "work shirt, canvas work pants, worn steel-toe boots, blue rag on tool belt",
+  "looks": ["building the ark", "inside the ark", "dry ground and altar"],
+  "role": "Carpenter and the last righteous man before the reset",
+  "expressions": ["focused", "mocked-but-steady", "obedient", "fearful", "grieving", "relieved", "grateful"],
+  "expression_story_mapping": {
+    "focused": "building the ark, a box with stacked rooms, while the block watches",
+    "mocked-but-steady": "kids throw bottles and old heads shake their heads; he keeps working",
+    "obedient": "the Voice tells him to build, and he builds without demanding explanation",
+    "fearful": "sealed inside with his family as the typhoon hits",
+    "grieving": "listening to the city drown underneath the ark",
+    "relieved": "stepping onto dry ground after the water recedes",
+    "grateful": "building an altar before building a house"
+  },
+  "gang_color": "blue",
+  "notes": "His family is the only one deemed clean: father Lameko, an unnamed wife, and sons Shem, Ham, and Japheth. Nohan is a carpenter, not a preacher; he builds the 300-cubit ark and seals every seam with pitch. Animals line up on their own. He survives the flood with his family, carrying grief for the drowned world. His name means rest, comfort; his urban lens is the block's mocked builder, proven right too late for others to board."
+}

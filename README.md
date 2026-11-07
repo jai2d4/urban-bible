@@ -28,7 +28,7 @@ Names keep the first sound of the biblical original with an urban twist. Origina
 
 Lucifer does not appear by name in Genesis. The serpent in the garden is him — introduced as the voice through the dryer vent in episode two, before he's ever named. Name him when Isaiah 14 comes around.
 
-## Season 1 — Genesis (Episodes 1–11 covered so far)
+## Season 1 — Genesis (Episodes 1–11 in the arc)
 
 ### Episode 1 — "When the Lights Came On" (Genesis 1)
 In the beginning, nothing but dark — no block, no lights, no sound. The Voice says let there be light and one sodium bulb flickers on in a window, then another, then a whole avenue. Day by day: the sky split, dry land pulling up out of the deep with green pushing through cracked pavement, sun and moon as clocks in the sky, water filling with life, animals, then man and woman made in that image. Day seven: the Voice rested — not tired, finished. First thing God ever called good was light.
@@ -74,14 +74,14 @@ The water going down. The ark settles on the mountains. Nohan opens the window, 
 
 Visually the quietest, heaviest episode: the ark on a peak, water receding in sheets, rainbow breaking over everything that just drowned.
 
-## Upcoming Genesis Episodes (8–11)
+## Genesis Episodes (8–11)
 
 - **Episode 8 — "The Olive Leaf"** (Genesis 8): water receding, dove with olive leaf, altar, rainbow covenant.
-- **Episode 9 — "The Tent"** (Genesis 9): the reset. New rules — be fruitful, animals are food but no blood, whoever sheds man's blood by man shall his blood be shed (first law, first justice). Nohan plants a vineyard, drinks, passes out naked. Ham sees and tells instead of covering. Shem and Japheth walk in backwards with a cloak. Nohan curses Canaan. First crack in the reset — same heart that filled the earth with violence is still in the tent. Vineyard = backyard garden gone wild, grapes on a fence that used to be a clothesline.
-- **Episode 10 — "The Map"** (Genesis 10): table of nations. Nohan's three sons split the map. Japheth north and west, Ham south and east (Egypt, Cush, Put, Canaan), Shem closest to the source — from Shem comes Eber, from Eber the Hebrews. A census of every nation that will matter later, written like a family tree with continents for branches.
-- **Episode 11 — "The Half-Built Tower"** (Genesis 11): Babel. One people, one language, moving east to a plain in Shinar. Brick, not stone — no rock in the land. Build a city and a tower to the heavens, make a name, never scatter. The Voice comes down to see it — leaning over a table. If they can do this with one language, nothing's impossible. So he confuses their speech. One minute same language, next minute nobody understands anybody. Building stops mid-brick. Place named Babel — confusion. Origin of every divided city.
+- **Episode 9 — ["The Tent"](episodes/episode-09-the-tent.md)** (Genesis 9): the reset and its first crack. New rules, a vineyard, a choice to expose instead of cover, and a curse that lands on Canaan.
+- **Episode 10 — ["The Map"](episodes/episode-10-the-map.md)** (Genesis 10): the table of nations, shown as a family tree spreading into a map. Shem's branch leads toward Eber and the story of Abraham.
+- **Episode 11 — ["The Half-Built Tower"](episodes/episode-11-the-half-built-tower.md)** (Genesis 11): Babel. One language, one plan, a tower built for a name; confusion stops the work without bringing the tower down.
 
-Visually: a half-finished skyscraper downtown, cranes still up, scaffolding wrapped around it, workers standing there arguing in languages that don't match. No explosion. Just the project dying because the crew can't talk.
+Episode 8 is handled separately in [PR #4](https://github.com/jai2d4/urban-bible/pull/4) and is not complete in this branch. Episodes 9–11 are complete here. The Genesis 1–11 primeval-history arc is complete once Episode 8's work is merged. Episode 12 — Abraham leaves everything — starts the patriarch arc.
 
 ## Full-Bible Plan (~30 Key Episodes)
 
@@ -136,7 +136,9 @@ Tell any assistant: "Go to github.com/jai2d4/urban-bible, pull up the README, an
 - [x] Concept locked
 - [x] Name map locked (Genesis 5)
 - [x] Episodes 1–7 written (through the typhoon / Genesis 7)
-- [ ] Episode 8 (Genesis 8) — next up
-- [ ] Episodes 9–11 (Genesis 9–11)
+- [ ] Episode 8 (Genesis 8) — pending separately in PR #4
+- [x] Episodes 9–11 (Genesis 9–11) — complete in this branch
+- [ ] Genesis 1–11 primeval-history arc — complete after Episode 8's PR is merged
+- [ ] Episode 12 — Abraham leaves everything (start of the patriarch arc)
 - [ ] Rest of Genesis (12–50)
 - [ ] Remaining ~19 Bible episodes
